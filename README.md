@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Servet ERDOĞAN</h1>
 <h3 align="center">A passionate Android Developer from Türkiye</h3>
 
-- 💬 Ask me about **Java, Kotlin, Android Development**  
+- 💬 Ask me about **Java, Kotlin, Android Development, Flutter**  
 - 📫 How to reach me **servete558@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,6 +27,9 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> 
