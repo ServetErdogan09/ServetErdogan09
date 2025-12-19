@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149065783.jpg?t=st=1721368132~exp=1721371732~hmac=0ff6aad576c2221c7fc1e301a2f54ec98bcda27b8a3af111dbcbf12b2c96d91a&w=996)
+[![MasterHead](https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149065783.jpg?t=st=1721368132~exp=1721371732~hmac=0ff6aad576c2221c7fc1e301a2f54ec98bcda27b8a3af111dbcbf12b2c96d91a&w=996)]
 
 <h1 align="center">Hi 👋, I'm Servet ERDOĞAN</h1>
 <h3 align="center">A passionate Android Developer from Türkiye</h3>
